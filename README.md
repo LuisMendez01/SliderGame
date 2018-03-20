@@ -4,3 +4,4 @@ It's like the bull's eye game found in the App Store where you play the scroll a
 The "Reset" button resets your score to 0 and "Round" back to 1.
 
 The information button will give you a funny picture of Majin buu wanting to be your buu lol
+
