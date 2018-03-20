@@ -7,4 +7,4 @@ The information button will give you a funny picture of Majin buu wanting to be 
 ```
 ```
 
-<span align="middle">![Demo](https://user-images.githubusercontent.com/16315708/37637187-b07a79be-2bdc-11e8-91f1-ba3d497d167a.gif)</span>
+<img src="https://user-images.githubusercontent.com/16315708/37637187-b07a79be-2bdc-11e8-91f1-ba3d497d167a.gif" align="middle">
