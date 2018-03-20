@@ -1,6 +1,6 @@
 # Demo
 
-![slider_game_Demo](https://user-images.githubusercontent.com/16315708/37637187-b07a79be-2bdc-11e8-91f1-ba3d497d167a.gif)
+<p align="center>"![slider_game_Demo](https://user-images.githubusercontent.com/16315708/37637187-b07a79be-2bdc-11e8-91f1-ba3d497d167a.gif)</p>
 
 
 # How to play the SliderGame
