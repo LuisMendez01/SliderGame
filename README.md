@@ -4,7 +4,7 @@
 
 
 # How to play the SliderGame
-It's like the bull's eye game found in the App Store where you play the scroll and try match the number given =)
+Scroll left or right and try match the number given =)
 
 The "Start Over" button resets your score to 0 and "Round" back to 1.
 
